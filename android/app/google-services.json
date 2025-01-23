@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693460976235",
+    "project_id": "havetodo-28ab5",
+    "storage_bucket": "havetodo-28ab5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693460976235:android:cd902b9cb3d84dca49a72e",
+        "android_client_info": {
+          "package_name": "com.akash.havetodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-s3jjpkvvwQQM1culB2kB2UuR39Vgrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
